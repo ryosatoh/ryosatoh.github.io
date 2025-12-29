@@ -1,7 +1,20 @@
+/* ナビバー全体の幅を画面いっぱいに */
 .masthead__inner-wrap {
   max-width: 100%;
 }
 
+/* ナビバーを flex に */
+.greedy-nav {
+  display: flex;
+  align-items: center;
+}
+
+/* サイトタイトル（Ryo Satoh）を左に固定 */
+.greedy-nav .masthead__menu-item--lg {
+  margin-right: auto;
+}
+
+/* それ以外のメニューは右寄せ */
 .greedy-nav .visible-links {
-  margin-left: auto;
+  margin-left: 0;
 }
