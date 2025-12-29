@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**Warnings**: This website is currently under construction! Please visit again later.
+
 ---
 # Ryo Satoh (佐藤 瞭)
 
