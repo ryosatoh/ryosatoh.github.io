@@ -1,20 +1,20 @@
-/* ナビ全体を横いっぱいに */
+/* ナビ全体を画面いっぱいに */
 .masthead__inner-wrap {
   max-width: 100%;
 }
 
-/* ナビの本体を flex に */
-.masthead__menu nav.greedy-nav {
+/* メニュー全体を flex に */
+.greedy-nav .visible-links {
   display: flex;
-  align-items: center;
+  width: 100%;
 }
 
-/* サイトタイトル（Ryo Satoh）を左に固定 */
-.masthead__menu-item--lg {
+/* Ryo Satoh だけ左固定 */
+.greedy-nav .masthead__menu-item--lg {
   margin-right: auto;
 }
 
-/* メニュー群（Home, Publications, CV...）を右寄せ */
-.masthead__menu nav.greedy-nav .visible-links {
-  justify-content: flex-end;
+/* それ以外の項目を右寄せ */
+.greedy-nav .masthead__menu-item:not(.masthead__menu-item--lg) {
+  margin-left: 0;
 }
