@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "The energetics of meridional teleconnection patterns over the North Pacific in winter: The internally-driven atmospheric variability and their modulations under different SST conditions<br />Busan IAMAS-IACS-IAPSO Joint Assembly 2025; Busan, South Korea",
+    35.1799528,
+    129.0752365
   ]
 ];
