@@ -1,20 +1,14 @@
-/* ナビ全体を画面いっぱいに */
+/* ナビの最大幅を解除 */
 .masthead__inner-wrap {
   max-width: 100%;
 }
 
-/* メニュー全体を flex に */
+/* visible-links を通常の幅に戻す */
 .greedy-nav .visible-links {
-  display: flex;
-  width: 100%;
+  width: auto;
 }
 
-/* Ryo Satoh だけ左固定 */
+/* Ryo Satoh を左固定 */
 .greedy-nav .masthead__menu-item--lg {
   margin-right: auto;
-}
-
-/* それ以外の項目を右寄せ */
-.greedy-nav .masthead__menu-item:not(.masthead__menu-item--lg) {
-  margin-left: 0;
 }
