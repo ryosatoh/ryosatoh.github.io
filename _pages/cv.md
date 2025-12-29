@@ -13,12 +13,12 @@ Education
 ======
 *	Doctor of Philosophy in climate dynamics (The University of Tokyo, Tokyo, JAPAN; expected)
 	* Apr. 2023 – present
-  *	Expected Completion: 2026
-  *	Supervisor: Yu Kosaka, Associate Professor, RCAST, the University of Tokyo
+ 	* Expected Completion: 2026
+	* Supervisor: Yu Kosaka, Associate Professor, RCAST, the University of Tokyo
 *	Master of Science in climate dynamics (The University of Tokyo, Tokyo, JAPAN, 2023)
-  *	Apr. 2021 – Mar. 2023
-  *	Thesis: “Energetics of Atmospheric Meridional Teleconnections over the North Pacific in Winter”
-  *	Supervisor: Yu Kosaka, Associate Professor, RCAST, the University of Tokyo
+	* Apr. 2021 – Mar. 2023
+	* Thesis: “Energetics of Atmospheric Meridional Teleconnections over the North Pacific in Winter”
+  	* Supervisor: Yu Kosaka, Associate Professor, RCAST, the University of Tokyo
 *	Bachelor of Science (The University of Tokyo, Tokyo, JAPAN, 2021)
   
 Skills
