@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+---
 # Ryo Satoh (佐藤 瞭)
 
-PhD student at Research Center for Advanced Science and Technology, the University of Tokyo.
+PhD student at Research Center for Advanced Science and Technology, the University of Tokyo, working with Yu Kosaka and Hisashi Nakamura.
 Email: ryosatoh🍀atmos.rcast.u-tokyo.ac.jp
 
 ## Research interests
