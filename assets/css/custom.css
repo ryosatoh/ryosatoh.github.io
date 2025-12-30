@@ -1,4 +1,4 @@
-/* Home だけ少し右に寄せる */
-.masthead__menu-item--lg + .masthead__menu-item {
-  margin-left: 1.5rem;
+/* Ryo Satoh の右側の無駄な余白を増やす */
+.masthead__menu-item--lg {
+  padding-right: 4em;
 }
