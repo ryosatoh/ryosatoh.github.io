@@ -1,4 +1,11 @@
+/* ナビと本文を同じグリッドにする */
+.masthead__inner-wrap {
+  max-width: 100%;
+}
+
+/* Ryo Satoh を sidebar 幅と一致させる */
 /* Ryo Satoh の右側の無駄な余白を増やす */
 .masthead__menu-item--lg {
-  padding-right: 4em;
+  width: 15.2542372881%;
+  padding-right: 4em;  /* さきほど調整した値を維持 */
 }
