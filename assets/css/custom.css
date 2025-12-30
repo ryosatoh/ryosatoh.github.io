@@ -1,0 +1,4 @@
+/* Home だけ少し右に寄せる */
+.masthead__menu-item--lg + .masthead__menu-item {
+  margin-left: 1.5rem;
+}
