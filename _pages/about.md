@@ -29,7 +29,7 @@ PhD student at Research Center for Advanced Science and Technology, the Universi
 
 ## Contact
 Email: 
-![image of email address](/images/email-address.png)
+<img src="/images/email-address.png" width="300px" alt="image of email address">
 (🍀 → @)
 
 <!--
