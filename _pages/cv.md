@@ -21,13 +21,6 @@ Education
 	* Supervisor: Yu Kosaka, Associate Professor, RCAST, the University of Tokyo
 *	Bachelor of Science (The University of Tokyo, Tokyo, JAPAN, 2021)
   
-Skills
-======
-* Python
-* GrADS
-* Fortran
-* Unix/Linux
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -48,9 +41,18 @@ Honors and Awards
   * This award honors graduate students for outstanding presentation on their own highly original and creative research.
 
     
-Fundings
+Funded Proposals
 ======
 * Grant-in-Aid for JSPS Research Fellow (23KJ0744), 2023-2026
+
+Technical Skills
+======
+* Python
+* Fortran
+* GrADS
+* Unix/Linux
+
+
 
 <!--
 Education
