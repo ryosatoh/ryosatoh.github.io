@@ -54,7 +54,7 @@ Technical Skills
 
 PDF
 ======
-You can get my pdf-formatted CV from [here](/files/Satoh_CV.pdf).
+You can get my pdf-formatted CV from [here](/files/RyoSatoh_CV_2026-01-05.pdf).
 
 <!--
 Education
