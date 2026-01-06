@@ -52,7 +52,9 @@ Technical Skills
 * GrADS
 * Unix/Linux
 
-
+PDF
+======
+You can get my pdf-formatted CV from [here](/files/Satoh_CV.pdf).
 
 <!--
 Education
