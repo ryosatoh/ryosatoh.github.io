@@ -13,7 +13,7 @@ redirect_from:
 ---
 # Ryo Satoh (佐藤 瞭)
 
-PhD student at Research Center for Advanced Science and Technology, the University of Tokyo, working with Yu Kosaka and Hisashi Nakamura.
+Postdoctoral Research Assistant at Atmospheric, Oceanic and Planetary Physics, Physics Department, University of Oxford.
 
 ## Research interests
 - Atmospheric low-frequency variabilities (Teleconnection patterns)
