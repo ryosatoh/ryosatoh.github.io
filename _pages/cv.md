@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 *	Doctor of Philosophy in climate dynamics (The University of Tokyo, Tokyo, JAPAN; expected)
-	* Apr. 2023 – present
+	* Apr. 2023 – Mar. 2026
 	* Expected Completion: Mar. 2026
 	* Supervisor: Yu Kosaka, Associate Professor, RCAST, the University of Tokyo
 *	Master of Science in climate dynamics (The University of Tokyo, Tokyo, JAPAN, 2023)
